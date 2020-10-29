@@ -1,4 +1,5 @@
-これまでに制作してきたアプリやゲームを動画にまとめました。
+これまでに制作してきたアプリやゲームは、以下の動画から確認することができます。
+
 https://www.youtube.com/playlist?list=PL9lQZ8nhFNHsnCN0xfGEf3-T9FFjXNn5R
 
 <!--
