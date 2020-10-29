@@ -1,4 +1,5 @@
-### Hi there 👋
+これまでに制作してきたアプリやゲームを動画にまとめました。
+https://www.youtube.com/playlist?list=PL9lQZ8nhFNHsnCN0xfGEf3-T9FFjXNn5R
 
 <!--
 **aguroshou/aguroshou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
